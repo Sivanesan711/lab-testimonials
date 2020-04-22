@@ -1,0 +1,17 @@
+.prograd
+{
+  display: flex;
+  float: right;
+  padding-right: 1em;
+}
+
+.logo
+{
+  padding-left: 1em;
+  padding-top: 1em;
+}
+
+.head
+{
+  border-bottom: 2px solid orangered;
+}

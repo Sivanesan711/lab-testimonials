@@ -1,0 +1,35 @@
+.grid-item1
+{
+  display: flex;
+  float: left;
+}
+
+.h1
+{
+  padding-left: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+  color: orangered;
+}
+
+.p1
+{
+  padding: 1em;
+}
+
+.p2
+{
+  padding: 1em;
+}
+
+.p3
+{
+  padding: 1em ;
+  color: orangered;
+}
+
+
+.pic
+{
+  float: right;
+  padding-right: 10cm;
+}

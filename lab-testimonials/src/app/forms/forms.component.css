@@ -1,0 +1,42 @@
+#contact {
+  background-color: whitesmoke;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 0px;
+}
+
+#contact form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#contact form input:last-child {
+ margin: 30px;
+}
+
+.input {
+  line-height: 2em;
+  width: 350px;
+  border-radius: 3px;
+  border-color: whitesmoke;
+  margin: 20px 0px;
+}
+
+.input1 {
+  line-height: 2em;
+  width: 350px;
+  height: 200px;
+  border-radius: 3px;
+  border-color: whitesmoke;
+  margin: 20px 0px;
+}
+
+.button
+{
+  color: orangered;
+}

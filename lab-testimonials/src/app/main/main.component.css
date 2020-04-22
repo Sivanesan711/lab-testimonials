@@ -1,0 +1,15 @@
+.main-container
+{
+  background-color: rgb(250, 245, 245);
+  padding: 2em;
+  padding-left: 14em;
+  width: 25cm;
+  justify-content: center;
+}
+
+.p1
+{
+  padding-left: 10em;
+}
+
+
